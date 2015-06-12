@@ -7,9 +7,10 @@ Just an already made project to quickstart the quistart.
 ## Installation
 
 Install the [Dart SDK](https://www.dartlang.org/downloads/)
+
 Install [Dartium]
 
-Note: Under Linux, you may need a more recent version than the stable repository (either install the SDK by hand or try the dev channel)
+Note: Under Linux, you may need a more recent version than the one that is the stable repository (either install the SDK by hand or try the dev channel)
 
 ### from an editor
 
