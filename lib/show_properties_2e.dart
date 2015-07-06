@@ -3,7 +3,7 @@ library dart_angular2_examples.show_properties_2e;
 import 'package:angular2/angular2.dart';
 import 'friends_service.dart';
 
-@Component(selector: 'display2e', appInjector: const [FriendsService])
+@Component(selector: 'display2e', viewInjector: const [FriendsService])
 
 @View(template: '''
     <p>Friends:</p>

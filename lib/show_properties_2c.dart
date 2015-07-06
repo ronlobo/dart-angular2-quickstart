@@ -8,7 +8,7 @@ import 'package:angular2/angular2.dart';
 <p>Friends:</p>
 <ul>
    <li *ng-for="#name of friendNames">
-      {{ name }}
+      {{name}}
    </li>
 </ul>
 ''', directives: const [NgFor])

@@ -3,7 +3,7 @@ library dart_angular2_examples.show_properties_2d;
 import 'package:angular2/angular2.dart';
 import 'friends_service.dart';
 
-@Component(selector: 'display2d', appInjector: const [FriendsService])
+@Component(selector: 'display2d', viewInjector: const [FriendsService])
 
 @View(template: '''
 <p>Friends:</p>

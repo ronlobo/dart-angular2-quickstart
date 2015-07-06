@@ -2,7 +2,7 @@
 
 The [step by step guide](https://angular.io/docs/dart/latest/quickstart.html) of Angular 2 for Dart in one project
 
-Just an already made project to quickstart the quistart.
+Just an already made project to quickstart the quickstart.
 
 ## Installation
 
