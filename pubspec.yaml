@@ -2,8 +2,8 @@ name: dart_angular2_examples
 description: Dart examples of Angular2
 version: 0.0.1
 dependencies:
-  angular2: 2.0.0-alpha.29
+  angular2: 2.0.0-alpha.31
   browser: ^0.10.0
-#transformers:
-#- angular2:
-#    entry_points: web/main.dart
+transformers:
+- angular2:
+    entry_points: web/main.dart

@@ -8,9 +8,7 @@ Just an already made project to quickstart the quickstart.
 
 Install the [Dart SDK](https://www.dartlang.org/downloads/)
 
-Install [Dartium]
-
-Note: Under Linux, you may need a more recent version than the one that is the stable repository (either install the SDK by hand or try the dev channel)
+Install [Dartium](https://storage.googleapis.com/dart-archive/channels/stable/release/latest/dartium/dartium-linux-x64-release.zip)
 
 ### from an editor
 
